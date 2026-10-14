@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.vscode/
+vendor/
+node_modules/
+*.log
+*.tmp
+*.bak
+*.zip
